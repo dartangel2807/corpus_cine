@@ -1,0 +1,229 @@
+{
+    "peliculas": [
+        {
+            "titulo": "Interstellar",
+            "genero": "Ciencia Ficción",
+            "sinopsis": "Un grupo de astronautas viaja por un agujero de gusano en el espacio para buscar un nuevo hogar y salvar a la humanidad de la extinción."
+        },
+        {
+            "titulo": "Blade Runner 2049",
+            "genero": "Ciencia Ficción",
+            "sinopsis": "Un oficial replica desentierra un secreto oculto del pasado que podría sumergir en el caos a la sociedad cibernética y tecnológica actual."
+        },
+        {
+            "titulo": "Inception",
+            "genero": "Ciencia Ficción",
+            "sinopsis": "Un ladrón especializado en infiltrarse en los sueños recibe la misión de implantar una idea en la mente de un poderoso empresario."
+        },
+        {
+            "titulo": "The Matrix",
+            "genero": "Ciencia Ficción",
+            "sinopsis": "Un programador descubre que la realidad que conoce es una simulación creada por máquinas que dominan a la humanidad."
+        },
+        {
+            "titulo": "Volver al Futuro",
+            "genero": "Ciencia Ficción",
+            "sinopsis": "Un adolescente viaja accidentalmente al pasado y debe asegurarse de que sus padres se enamoren para preservar su existencia."
+        },
+        {
+            "titulo": "Terminator 2",
+            "genero": "Ciencia Ficción",
+            "sinopsis": "Un cyborg protector llega del futuro para salvar a un joven destinado a liderar la resistencia humana."
+        },
+        {
+            "titulo": "Interestelar Oscuro",
+            "genero": "Ciencia Ficción",
+            "sinopsis": "Un científico investiga anomalías cósmicas que podrían revelar la existencia de dimensiones desconocidas."
+        },
+        {
+            "titulo": "El Conjuro",
+            "genero": "Terror",
+            "sinopsis": "Investigadores paranormales acuden a una granja solitaria donde una presencia demoníaca y un espíritu oscuro aterrorizan a una familia."
+        },
+        {
+            "titulo": "It (Eso)",
+            "genero": "Terror",
+            "sinopsis": "Un grupo de niños con miedos profundos se enfrenta a un demonio ancestral que toma la forma de un payaso y vive en las alcantarillas."
+        },
+        {
+            "titulo": "Alien",
+            "genero": "Terror",
+            "sinopsis": "La tripulación de una nave espacial es perseguida por una criatura extraterrestre mortal que se oculta en los pasillos del vehículo."
+        },
+        {
+            "titulo": "Hereditary",
+            "genero": "Terror",
+            "sinopsis": "Tras la muerte de una familiar, una familia comienza a experimentar sucesos inquietantes relacionados con una oscura herencia sobrenatural."
+        },
+        {
+            "titulo": "El Resplandor",
+            "genero": "Terror",
+            "sinopsis": "Un escritor acepta cuidar un hotel aislado durante el invierno y comienza a perder la cordura por fuerzas misteriosas."
+        },
+        {
+            "titulo": "Actividad Paranormal",
+            "genero": "Terror",
+            "sinopsis": "Una pareja instala cámaras en su hogar para registrar los extraños fenómenos que ocurren durante la noche."
+        },
+        {
+            "titulo": "El Exorcista",
+            "genero": "Terror",
+            "sinopsis": "Una joven muestra señales de posesión demoníaca y su familia recurre a un exorcismo desesperado."
+        },
+        {
+            "titulo": "Tren a Busan",
+            "genero": "Terror",
+            "sinopsis": "Los pasajeros de un tren de alta velocidad luchan por sobrevivir durante un devastador brote zombi."
+        },
+        {
+            "titulo": "Titanic",
+            "genero": "Romance",
+            "sinopsis": "Dos jóvenes de diferentes clases sociales se enamoran a bordo del lujoso transatlántico durante su fatídico viaje inaugural."
+        },
+        {
+            "titulo": "Diario de una Pasión",
+            "genero": "Romance",
+            "sinopsis": "Una apasionada historia de amor enfrenta los obstáculos del tiempo, la distancia y las diferencias sociales."
+        },
+        {
+            "titulo": "Bajo la Misma Estrella",
+            "genero": "Romance",
+            "sinopsis": "Dos adolescentes con enfermedades terminales se conocen en un grupo de apoyo, iniciando un emotivo e inolvidable romance."
+        },
+        {
+            "titulo": "Orgullo y Prejuicio",
+            "genero": "Romance",
+            "sinopsis": "Una joven inteligente y un adinerado y orgulloso caballero deben superar sus propios prejuicios sociales para admitir que se aman."
+        },
+        {
+            "titulo": "La La Land",
+            "genero": "Romance",
+            "sinopsis": "Una aspirante a actriz y un pianista de jazz se enamoran perdidamente mientras persiguen sus ambiciosos sueños artísticos en Los Ángeles."
+        },
+        {
+            "titulo": "Antes del Amanecer",
+            "genero": "Romance",
+            "sinopsis": "Un joven estadounidense y una chica francesa se conocen en un tren y deciden pasar una noche romántica paseando juntos por Viena."
+        },
+        {
+            "titulo": "Cuestión de Tiempo",
+            "genero": "Romance",
+            "sinopsis": "Un hombre con el poder de viajar en el tiempo decide usar su habilidad especial para conquistar el corazón de la mujer de sus sueños."
+        },
+        {
+            "titulo": "Gladiador",
+            "genero": "Acción",
+            "sinopsis": "Un general romano traicionado busca vengar la muerte de su familia mientras lucha como gladiador en la arena."
+        },
+        {
+            "titulo": "John Wick",
+            "genero": "Acción",
+            "sinopsis": "Un exasesino regresa al mundo criminal para vengarse de quienes destruyeron lo único que le quedaba de su vida pasada."
+        },
+        {
+            "titulo": "Mad Max: Fury Road",
+            "genero": "Acción",
+            "sinopsis": "En un mundo postapocalíptico, un guerrero errante se une a una rebelde para escapar de un tirano y sus seguidores."
+        },
+        {
+            "titulo": "El Caballero de la Noche",
+            "genero": "Acción",
+            "sinopsis": "Un héroe enmascarado enfrenta a un criminal caótico que amenaza con sumir a toda una ciudad en el terror."
+        },
+        {
+            "titulo": "Avengers: Endgame",
+            "genero": "Acción",
+            "sinopsis": "Los héroes más poderosos del planeta intentan revertir una catástrofe universal causada por un enemigo implacable."
+        },
+        {
+            "titulo": "Misión Imposible",
+            "genero": "Acción",
+            "sinopsis": "Un agente secreto acusado injustamente intenta descubrir una conspiración mientras evade a sus perseguidores."
+        },
+        {
+            "titulo": "El Padrino",
+            "genero": "Drama",
+            "sinopsis": "Una dinastía del crimen organizado lucha por mantener el poder y el respeto familiar en medio de traiciones, venganzas y tragedias personales."
+        },
+        {
+            "titulo": "Forrest Gump",
+            "genero": "Drama",
+            "sinopsis": "Un hombre de gran corazón presencia y participa involuntariamente en importantes acontecimientos de la historia moderna."
+        },
+        {
+            "titulo": "La Lista de Schindler",
+            "genero": "Drama",
+            "sinopsis": "Un empresario alemán arriesga su vida y fortuna para salvar a cientos de judíos durante la Segunda Guerra Mundial."
+        },
+        {
+            "titulo": "Parásitos",
+            "genero": "Drama",
+            "sinopsis": "Una familia de escasos recursos se infiltra en la vida de una adinerada familia, desencadenando consecuencias inesperadas."
+        },
+        {
+            "titulo": "Rocky",
+            "genero": "Drama",
+            "sinopsis": "Un boxeador desconocido recibe una oportunidad única para enfrentarse al campeón mundial y cambiar su vida."
+        },
+        {
+            "titulo": "Toy Story",
+            "genero": "Animación",
+            "sinopsis": "Los juguetes de un niño cobran vida cuando nadie los observa y viven aventuras para proteger su lugar en el corazón de su dueño."
+        },
+        {
+            "titulo": "El Rey León",
+            "genero": "Animación",
+            "sinopsis": "Un joven león debe superar la pérdida y el miedo para reclamar el trono que le corresponde por derecho."
+        },
+        {
+            "titulo": "Shrek",
+            "genero": "Animación",
+            "sinopsis": "Un ogro solitario emprende un viaje para rescatar a una princesa y recuperar la tranquilidad de su pantano."
+        },
+        {
+            "titulo": "Coco",
+            "genero": "Animación",
+            "sinopsis": "Un niño apasionado por la música viaja al mundo de los muertos para descubrir los secretos de su familia."
+        },
+        {
+            "titulo": "Buscando a Nemo",
+            "genero": "Animación",
+            "sinopsis": "Un pez payaso emprende una peligrosa travesía oceánica para encontrar a su hijo desaparecido."
+        },
+        {
+            "titulo": "Wall-E",
+            "genero": "Animación",
+            "sinopsis": "Un pequeño robot recolector de basura descubre una misión que podría determine el futuro de la humanidad."
+        },
+        {
+            "titulo": "Jurassic Park",
+            "genero": "Aventura",
+            "sinopsis": "Un parque temático con dinosaurios clonados se convierte en una pesadilla cuando las criaturas escapan de control."
+        },
+        {
+            "titulo": "Indiana Jones y los Cazadores del Arca Perdida",
+            "genero": "Aventura",
+            "sinopsis": "Un arqueólogo aventurero busca un antiguo artefacto antes de que caiga en manos peligrosas."
+        },
+        {
+            "titulo": "Piratas del Caribe",
+            "genero": "Aventura",
+            "sinopsis": "Un extravagante pirata se embarca en una búsqueda llena de maldiciones, tesoros y batallas navales."
+        },
+        {
+            "titulo": "El Gran Hotel Budapest",
+            "genero": "Comedia",
+            "sinopsis": "Un refinado conserje y su joven aprendiz se ven envueltos en un conflicto por una valiosa herencia."
+        },
+        {
+            "titulo": "¿Qué Pasó Ayer?",
+            "genero": "Comedia",
+            "sinopsis": "Un grupo de amigos intenta reconstruir los eventos de una caótica despedida de soltero en Las Vegas."
+        },
+        {
+            "titulo": "Deadpool",
+            "genero": "Comedia",
+            "sinopsis": "Un mercenario con habilidades regenerativas y humor irreverente busca vengarse de quienes arruinaron su vida."
+        }
+    ]
+}
